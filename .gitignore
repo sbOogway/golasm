@@ -1,0 +1,6 @@
+gol
+*.o
+*.efi
+*.img
+*.part
+build_uformat/
